@@ -55,7 +55,7 @@ FDC  4877
 
 ### EXPLICACIÓN
 
-[Link Video](https://youtu.be/lkgXKLvqtso)
+[Link Video](https://www.youtube.com/watch?v=7J4w8mgm-y4&feature=youtu.be)
 
 
 ### CONCLUSIONES 
