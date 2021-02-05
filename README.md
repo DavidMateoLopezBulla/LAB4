@@ -4,7 +4,7 @@ FDC  4877
 - Mariú Correa
 ----------------
 
-### OBJETIVO
+### OBJETIVOS
 -	Estudiar y analizar mediante la aplicación del teorema de la máxima transferencia de potencia el comportamiento de circuitos.
 -	Aplicar y reforzar los conocimientos teóricos adquiridos sobre este teorema en los cálculos que nos brinden los simuladores.
 -	Hallar la condición necesaria para calcular la máxima transferencia de potencia en los circuitos eléctricos presentes en la simulación.
@@ -23,6 +23,8 @@ FDC  4877
 ![image](https://user-images.githubusercontent.com/76136049/106982043-3b3f6180-6731-11eb-9777-9689e080188d.png)
 
 ### EXPLICACIÓN
+
+[Link Video](https://youtu.be/lkgXKLvqtso)
 
 
 ### CONCLUSIONES 
