@@ -23,26 +23,27 @@ FDC  4877
 - 	Para R_L=680 Ω:
 ![Captura de pantalla (372)](https://user-images.githubusercontent.com/76136485/107019204-65177900-676f-11eb-9709-f18eab1e1a0e.png)
 
-- Para R_L=820
+- 	Para  R_L=820 Ω:
 ![Captura de pantalla (365)](https://user-images.githubusercontent.com/76136485/107019207-65b00f80-676f-11eb-86d1-e7f4ca281743.png)
 
-- 	R_L=1000 Ω:
+- 	Para R_L=1000 Ω:
 ![Captura de pantalla (366)](https://user-images.githubusercontent.com/76136485/107019211-65b00f80-676f-11eb-8329-adfb137ca5c9.png)
 
-- 	R_L=1500 Ω:
+- 	Para R_L=1500 Ω:
 ![Captura de pantalla (367)](https://user-images.githubusercontent.com/76136485/107019214-6648a600-676f-11eb-8de3-b264f4326840.png)
 
-- 	R_L=1800 Ω:
+- 	Para R_L=1800 Ω:
 ![Captura de pantalla (368)](https://user-images.githubusercontent.com/76136485/107019216-6648a600-676f-11eb-9f8e-d454b53782f2.png)
 
-- 	R_L=2200 Ω:
+- 	Para R_L=2200 Ω:
 ![Captura de pantalla (369)](https://user-images.githubusercontent.com/76136485/107019217-6648a600-676f-11eb-9003-e2bb5d1c0f83.png)
 
-- 	R_L=3900 Ω:
+- 	Para R_L=3900 Ω:
 ![Captura de pantalla (370)](https://user-images.githubusercontent.com/76136485/107019198-63e64c00-676f-11eb-8bde-03eadfab2d6a.png)
 
-- 	R_L=4700 Ω:
+- 	Para R_L=4700 Ω:
 ![Captura de pantalla (371)](https://user-images.githubusercontent.com/76136485/107019201-647ee280-676f-11eb-9283-caf1b77eb7c2.png)
+
 
 
 ### TABLAS
