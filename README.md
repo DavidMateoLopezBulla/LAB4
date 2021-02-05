@@ -48,6 +48,7 @@ FDC  4877
 
 ### TABLAS
 
+![Tabla](https://user-images.githubusercontent.com/76136485/107040892-d0704380-678d-11eb-95b5-e22256176fc5.png)
 
 ### LISTA DE COMPONENTES
 ![image](https://user-images.githubusercontent.com/76136049/106982043-3b3f6180-6731-11eb-9777-9689e080188d.png)
