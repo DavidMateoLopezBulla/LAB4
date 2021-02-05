@@ -23,7 +23,7 @@ FDC  4877
 - 	Para R_L=680 Ω:
 ![Captura de pantalla (372)](https://user-images.githubusercontent.com/76136485/107019204-65177900-676f-11eb-9709-f18eab1e1a0e.png)
 
-- 	 R_L=820 Ω:
+- Para R_L=820
 ![Captura de pantalla (365)](https://user-images.githubusercontent.com/76136485/107019207-65b00f80-676f-11eb-86d1-e7f4ca281743.png)
 
 - 	R_L=1000 Ω:
